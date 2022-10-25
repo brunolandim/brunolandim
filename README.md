@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a brazilian Full Stack Web Developer passionate about technologies!</h3>
 
 ##
-https://
 <div id='lojc' align="center">
 
 
