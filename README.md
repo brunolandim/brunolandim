@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunolandim&show_icons=true&theme=radical)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Mateus</h1>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Bruno</h1>
 
 <h3 align="center">I'm a brazilian Full Stack Web Developer passionate about technologies!</h3>
 
@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 | Languages  | Frameworks and Technologies | Tools | 
 |---|---|---|
-|<div id='lojc' align="center"><img src="https://github.com/brunolandim/brunolandim/blob/main/img/JavaScript.svg" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="img/testing-library.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/344/docker.png" width="30" height="35"/>&nbsp;&nbsp;<img src="https://www.seekpng.com/png/full/525-5256723_docker-compose-logo.png" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/brunolandim/brunolandim/blob/main/img/HTML.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="img/CSS.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/brunolandim/brunolandim/blob/main/img/NPM.svg" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/brunolandim/brunolandim/blob/main/img/GitHub.svg" width="30" height="30" background-color="white"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/344/bash.png" width="30" height="30" background-color="white"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/brunolandim/brunolandim/blob/main/img/WordPress.svg" width="30" height="30"/></div>|
+|<div id='lojc' align="center"><img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/JavaScript.svg" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="img/testing-library.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/344/docker.png" width="30" height="35"/>&nbsp;&nbsp;<img src="https://www.seekpng.com/png/full/525-5256723_docker-compose-logo.png" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/HTML.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="img/CSS.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/NPM.svg" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/GitHub.svg" width="30" height="30" background-color="white"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/344/bash.png" width="30" height="30" background-color="white"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/WordPress.svg" width="30" height="30"/></div>|
+
 
   <details>
     <summary><h4>My Technical Skills</h4></summary>
@@ -60,7 +61,7 @@ Here are some ideas to get you started:
 ##	
 
 
-![Snake animation](https://github.com/MateusHoffman/brunolandim/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MateusHoffman/MateusHoffman/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Connect with me:
