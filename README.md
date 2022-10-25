@@ -1,7 +1,3 @@
-### Hi there 👋
-I am Bruno Landim
-Welcome to my GitHub 😄
-
 <!--
 **brunolandim/brunolandim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
