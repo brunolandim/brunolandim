@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">I'm a brazilian Full Stack Web Developer passionate about technologies!</h3>
 
+<h3 align="center">contact email: brunolandim13@hotmail.com</h3>
+
+
 ##
 <div id='lojc' align="center">
 
