@@ -40,12 +40,10 @@ Here are some ideas to get you started:
   </details>
 
 ##
-	  
 <div align="center">
   <img height="165em" alt="Bruno Landim's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunolandim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <img height="165em" alt="Bruno Landim's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunolandim&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
-
 ##
 
 <div>
