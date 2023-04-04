@@ -55,9 +55,6 @@ Here are some ideas to get you started:
 	<h4 align="center">Empathy, Resilience, Collaboration, Good Listener, Creative, Time Management, Challenges, Argumentation<h4>
 </div>
 
-##	
-
-
 ![Snake animation](https://github.com/MateusHoffman/MateusHoffman/blob/output/github-contribution-grid-snake.svg)
 
 
