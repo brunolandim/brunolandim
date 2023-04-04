@@ -40,6 +40,23 @@ Here are some ideas to get you started:
   </details>
 
 ##
+	  
+<div align="center">
+  <a href="https://github.com/brunolandim/github-readme-stats"><img height="165em" alt="Bruno Landim's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MateusHoffman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/MateusHoffman/github-readme-stats"><img height="165em" alt="Mateus Hoffman's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MateusHoffman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+	</a>
+</div>
+
+##
+
+<div>
+	<h3 align="center">
+		<img src="https://cdn-icons-png.flaticon.com/512/3062/3062533.png" width="50px" height="50px">
+		 My Soft Skills 
+		<img src="https://blog.peoplefirstps.com/hubfs/226%20-%20Data.png" width="50px" height="50px">
+	<h3>
+	<h4 align="center">Empathy, Resilience, Collaboration, Good Listener, Creative, Time Management, Challenges, Argumentation<h4>
+</div>
 
 <div>
 	<h3 align="center">
