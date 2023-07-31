@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a brazilian Full Stack Web Developer passionate about technologies!</h3>
 
 <h3 align="center">contact email: brunolandim13@hotmail.com</h3>
-<span>	
+<div align="center">	
  <a href="https://app.daily.dev/BrunoLandim">
  <img src="https://api.daily.dev/devcards/71b2c297daa84e34846b790756a20491.png?r=x91" width="200px" alt="Bruno Landim's Dev Card"/>
  </a>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp">Guide to Adding the Daily.dev DevCard to Your GitHub
   </a>
   </p>
-</span>
+</div>
 <div id='lojc' align="center">
 
 
