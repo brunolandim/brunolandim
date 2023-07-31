@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 	<a href="https://app.daily.dev/BrunoLandim">
 	<img src="https://api.daily.dev/devcards/71b2c297daa84e34846b790756a20491.png?r=x91" width="200" alt="Bruno Landim's Dev Card"/>
 	</a>
-	<span align="end">
-  	<img src="https://github-profile-trophy.vercel.app/?username=brunolandim&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-	</span>
 </div>
 
 | Languages  | Frameworks and Technologies | Tools | 
