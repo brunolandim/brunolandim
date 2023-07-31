@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align="center">	
 <div width="50%">
  <a href="https://app.daily.dev/BrunoLandim">
- <img src="https://api.daily.dev/devcards/71b2c297daa84e34846b790756a20491.png?r=x91" alt="Bruno Landim's Dev Card"/>
+ <img src="https://api.daily.dev/devcards/71b2c297daa84e34846b790756a20491.png?r=x91" width="200px" alt="Bruno Landim's Dev Card"/>
  </a>
 </div>
 <div>
