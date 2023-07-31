@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/BrunoLandim"><img src="https://api.daily.dev/devcards/71b2c297daa84e34846b790756a20491.png?r=x91" width="400" alt="Bruno Landim's Dev Card"/></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Bruno</h1>
 
 <h3 align="center">I'm a brazilian Full Stack Web Developer passionate about technologies!</h3>
 
 <h3 align="center">contact email: brunolandim13@hotmail.com</h3>
 
-
+<a href="https://app.daily.dev/BrunoLandim"><img src="https://api.daily.dev/devcards/71b2c297daa84e34846b790756a20491.png?r=x91" width="200" alt="Bruno Landim's Dev Card"/></a>
 ##
 <div id='lojc' align="center">
 
