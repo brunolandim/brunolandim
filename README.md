@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 <div id='lojc' align="center">
 
 <div >
-	<a href="https://app.daily.dev/BrunoLandim">
-	<img src="https://api.daily.dev/devcards/71b2c297daa84e34846b790756a20491.png?r=x91" width="200" alt="Bruno Landim's Dev Card"/>
-	</a>
+	<a href="https://app.daily.dev/brunolandim"><img src="https://api.daily.dev/devcards/v2/5EAjMRhZEMQt1Ql8M5fF6.png?r=z7f" width="356" alt="Bruno Landim's Dev Card"/></a>
 	<img width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </div>
 
